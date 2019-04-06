@@ -1,4 +1,4 @@
-# Open Science Theory  
+## Data Science Theory  
 
 This repository will host materials for the Data Science Theory theme.  
 
