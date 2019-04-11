@@ -1,7 +1,7 @@
 ## Meta- and Mini-theories  
 
 ### Psychophysical Laws  
-[Weber–Fechner](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law): the relationship between accurately estimating quantities and the number of objects.  
+[Weber–Fechner](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law): the relationship between accurately estimating quantities and the number of objects presented simultaneously.  
 
 [Fitts'](https://en.wikipedia.org/wiki/Fitts%27s_law): the relationship between spped of movement and accuracy of movement.  
 
