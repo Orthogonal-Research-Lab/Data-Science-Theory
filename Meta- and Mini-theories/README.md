@@ -7,6 +7,8 @@
 
 [Stevens's Power](https://en.wikipedia.org/wiki/Stevens%27s_power_law): the relationship between the intensity of a stimulus and its ability to be perceived.  
 
+### Taxonomy of Mini-theories (meta-theory)
+
 
 ### Perceptual False Positives  
 [Apophenia](https://en.wikipedia.org/wiki/Apophenia): the tendency to misattribute one cause with another.  
