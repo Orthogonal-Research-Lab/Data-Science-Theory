@@ -1,5 +1,10 @@
 ## Meta- and Mini-theories  
 
+### Types of Theory (Philosophy of Science)  
+Reductive Theory: a theory that is reducible to mechanism.
+
+Effective theory: describes a set of observations without an explicit mechanism.
+
 ### Psychophysical Laws (mini-theory)   
 [Weber–Fechner](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law): the relationship between accurately estimating quantities and the number of objects presented simultaneously.  
 
