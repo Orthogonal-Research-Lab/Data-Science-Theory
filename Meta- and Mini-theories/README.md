@@ -26,3 +26,5 @@ Automated Hypothesis Discovery/Theorem Formation: the unsupervised discovery of 
 
 [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia): the tendency to find patterns in randomness.  
 
+[Clustering illusion](https://en.wikipedia.org/wiki/Clustering_illusion): the tendency to see non-random groupings where none exist.  
+
