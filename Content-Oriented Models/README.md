@@ -11,7 +11,7 @@ Both examples describe a regularity, along with a certain percentage of the tota
 
 ### Structure vs. tendency vs. completeness:  
 
-* structure: mxn array  
+* structure: _m_-by-_n_ array, clusters, distributions.
 
 * tendency: content-oriented model, statistical distribution.  
 
